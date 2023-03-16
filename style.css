@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(to right,#020024,#090979,#00d4ff);
+    color: white;
+    text-align: center;
+}
+
+input{
+    background-image: linear-gradient(to right,#020024,#090979,#00d4ff);
+    color: white;
+}
+
+button{
+    padding: 36px;
+    border-radius: 9px;
+}
+
+.bir1{
+    background-color: #14267e;
+    color: white;
+}
+
+.bir2{
+    background-color: #fff15d;
+    color: black;
+}
+
+.bir3{
+    background-color: #a9ff72;
+    color: black;
+}
+
+.bir4{
+    background-color: #0e6c57;
+    color: whitesmoke
+}
+
+h2{
+    font-size: 4rem;
+}
